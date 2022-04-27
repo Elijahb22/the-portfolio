@@ -1,18 +1,18 @@
 import React from 'react'
-
+import './nav.css'
 const nav = () => {
 
     
 
   return (
-    <div className=''>
-        <div className=''>
+    <div className='nav'>
+        <div className='nav-w'>
             <div className=''>
                 <h1> 
                     <a href="/">Elijah Busick </a>
                 </h1>
             </div>
-            <div className=''>
+            <div className='nav-right'>
                 <ul>
                     <li>
                         <a href="#about">About Me</a>
