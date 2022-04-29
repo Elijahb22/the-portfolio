@@ -1,0 +1,29 @@
+.about {
+    display: flex;
+    height: 100vh;
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: grey;
+}
+
+.about-left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.about-left-wrapper{
+    padding: 50px;
+    height: 20%; 
+}
+
+.about-i{
+    font-size: 30px;
+    font-weight: 300;   
+}
+
+.about-name{
+    font-size: 60px;
+}
