@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-const intro = () => {
+const about = () => {
   return (
     <section className='about'> 
         <div className='about-left'> 
@@ -16,4 +16,4 @@ const intro = () => {
   )
 }
 
-export default intro
+export default about;
