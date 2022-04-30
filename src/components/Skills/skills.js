@@ -10,8 +10,7 @@ import './skills.css'
 const skill = () => {
 
     return (
-    <div className="skill">
-        <h1>Eli</h1>
+    <div className="row">
         <card>
             <DiJavascript1 />
         </card>
