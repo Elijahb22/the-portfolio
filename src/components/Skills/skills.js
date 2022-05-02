@@ -1,28 +1,26 @@
 
 import React from "react";
+import { Col, Container, Row } from "react-bootstrap"; 
 import {
     DiJavascript1,
     DiReact,
-    DiNodejs,
-    DiMongodb
 } from "react-icons/di";
 import './skills.css'
 const skill = () => {
 
     return (
-    <div className="row">
-        <card>
+    <div className="page">
+    <Container>
+    <h1> Professional Skillset </h1>
+    <Row>
+        <Col className="tech-icons">
             <DiJavascript1 />
-        </card>
-        <card>
+        </Col>
+        <Col  className="tech-icons">
             <DiReact />
-        </card>
-        <card>
-            <DiNodejs />
-        </card>
-        <card>
-            <DiMongodb />
-        </card>
+        </Col>
+    </ Row>
+    </Container>
     </div>
     )
 }

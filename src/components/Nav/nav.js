@@ -2,8 +2,6 @@ import React from 'react'
 import './nav.css'
 const nav = () => {
 
-    
-
   return (
     <div className='nav'>
         <div className='nav-w'>
