@@ -1,16 +1,16 @@
 
 import React from 'react'
-
-const portfolio = () => {
+import './portfolio.css'
+const portfolio = ({img,link}) => {
   return (
-    <section className=''> 
-        <div className=''>
-            <div className=''></div>
-            <div className=''></div>
-            <div className=''></div>
+    <section className='portfolio'> 
+        <div className='portfolio-b'>
+            <div className='portfolio-c'></div>
+            <div className='portfolio-c'></div>
+            <div className='portfolio-c'></div>
         </div>
         <a href={link} target="_blank" 
-        rel="">
+        rel="noreferrer">
             <img src={img} alt=" " className=''/>
         </a>
     </section>
