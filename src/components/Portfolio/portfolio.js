@@ -7,7 +7,7 @@ const portfolio = () => {
         <div className=''>
             <div className=''></div>
             <div className=''></div>
-            <div className='p'></div>
+            <div className=''></div>
         </div>
         <a href={link} target="_blank" 
         rel="">
