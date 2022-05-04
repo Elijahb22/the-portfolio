@@ -2,14 +2,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Nav from './components/Nav/nav'
 import About from './components/About/about'
 import Skill from './components/Skills/skills'
-import Portfolio from './components/Portfolio/portfolio';
+import PortfolioList from './components/Portfolio_list/portfolioList';
 const App = () => {
   return (
   <div >
     <Nav/>
     <About/>
     <Skill />
-    <Portfolio />
+    <PortfolioList />
   </div>
 )
 };

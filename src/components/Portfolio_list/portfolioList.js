@@ -1,15 +1,15 @@
 import React from 'react'
-import Portfolio from "../Portfolio/Portfolio.js"
+import './portfolioList.css'
+import Portfolio from "../Portfolio/portfolio.js"
 import { portfolio } from '../../data'
 
 const PortfolioList = () => {
   return (
-    <section id='portfolio' className=''>
-      <div className=''>
-        <h1 className=''> Portfolio</h1>
-        {/* <p className='pl-desc'> Write description about portfolio</p> */}
+    <section id='portfolio' className='portfolioList'>
+      <div className='portfolioList-texts'>
+        <h1 className='portfolioList-title'> Projects</h1>
       </div>
-      <div className=''>
+      <div className='portfolioList-list'>
         {portfolio.map((item) => (
             <Portfolio key={item.id} name={item.name} img={item.img} link={item.link}/>
         ))}
