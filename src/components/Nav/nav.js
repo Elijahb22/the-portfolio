@@ -16,7 +16,10 @@ const nav = () => {
                         <a href="#about">About Me</a>
                     </li>
                     <li>
-                        <a href="#portfolio">Portfolio</a>
+                        <a href='#skill'>Skills</a>
+                    </li>
+                    <li>
+                        <a href="#portfolio">Projects</a>
                     </li>
                     <li>
                         <a href="#contact">Contact Me</a>

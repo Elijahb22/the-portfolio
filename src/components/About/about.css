@@ -1,9 +1,12 @@
+
+
 .about {
     display: flex;
     height: 100vh;
-    color: white;
+    color: black;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    background-color: grey;
+    background-image: url('../../img/geometricelement-grey.png');
+    background-size: 100%;
 }
 
 .about-left{
