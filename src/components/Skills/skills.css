@@ -1,6 +1,4 @@
-.page {
-    background-color: white ;
-}
+
 
 .h1-s{
     text-align: center;
@@ -24,4 +22,12 @@
     transform: scale(1.05);
     overflow: hidden;
     border: 2.2px solid white;
+}
+
+.html-icon{
+    color:black;
+}
+
+.html-icon:hover {
+    color: #F06529;
 }

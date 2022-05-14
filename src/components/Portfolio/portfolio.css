@@ -33,6 +33,6 @@ a {
     width: 100%;
 }
 
-.p:hover .p-img{
-    transform: translateY(-100%);
+.p-img:hover{
+    transform: scale(1.5);
 }

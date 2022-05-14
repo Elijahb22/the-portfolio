@@ -18,9 +18,10 @@ import {
 } from "react-icons/si"
 import { FiFigma } from "react-icons/fi"
 import './skills.css'
+import { IconContext } from "react-icons";
 const skill = () => {
     return (
-    <div className="page">
+    <div className="">
     <Container>
     <h2 className="h1-s"> Professional Skillset </h2>
     <Row>
@@ -39,8 +40,10 @@ const skill = () => {
     </ Row>
     <Row>
         <Col className="tech-icons">
-                <AiFillHtml5 />
-        </Col>
+            <IconContext.Provider value={{ className:"html-icon"}}>
+            <AiFillHtml5 />
+            </IconContext.Provider>
+        </Col> 
         <Col className="tech-icons">
             <DiCss3 />
         </Col>

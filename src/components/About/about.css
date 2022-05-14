@@ -1,12 +1,11 @@
 
-
+* {
+    background-color: white;
+}
 .about {
     display: flex;
     height: 100vh;
     color: black;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    background-image: url('../../img/geometricelement-grey.png');
-    background-size: 100%;
 }
 
 .about-left{
@@ -24,9 +23,11 @@
 
 .about-i{
     font-size: 30px;
-    font-weight: 300;   
+    font-weight: 300;
+    text-align: center;  
 }
 
 .about-name{
     font-size: 60px;
+    text-align: center;
 }
