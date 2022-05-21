@@ -1,10 +1,10 @@
 
-import PasswordGenerator from './img/pg-img.jpg'
-import MyNightHome from './img/mynighthome-img.jpg'
-import MyDoctor from './img/mydoctor-img.jpg'
-import NoteTaker from './img/notetaker-img.jpg'
-import BudgetTracker from './img/budgettracker-img.jpg'
-import PizzaHunt from './img/pizzahunt-img.jpg'
+import PasswordGenerator from '../img/pg-img.jpg'
+import MyNightHome from '../img/mynighthome-img.jpg'
+import MyDoctor from '../img/mydoctor-img.jpg'
+import NoteTaker from '../img/notetaker-img.jpg'
+import BudgetTracker from '../img/budgettracker-img.jpg'
+import PizzaHunt from '../img/pizzahunt-img.jpg'
 export const portfolio = [
     {
         id: 1,
