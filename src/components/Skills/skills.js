@@ -40,9 +40,7 @@ const skill = () => {
     </ Row>
     <Row>
         <Col className="tech-icons">
-            <IconContext.Provider value={{ className:"html-icon"}}>
             <AiFillHtml5 />
-            </IconContext.Provider>
         </Col> 
         <Col className="tech-icons">
             <DiCss3 />
