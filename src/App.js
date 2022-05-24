@@ -4,6 +4,7 @@ import About from './components/About/about'
 import Skill from './components/Skills/skills'
 import PortfolioList from './components/Portfolio_list/portfolioList';
 import Contact from './components/Contact/contact';
+import Footer from './components/Footer/footer'
 const App = () => {
   return (
   <div >
@@ -12,6 +13,7 @@ const App = () => {
     <Skill />
     <PortfolioList />
     <Contact />
+    <Footer />
   </div>
 )
 };
