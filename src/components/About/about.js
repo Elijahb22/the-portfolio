@@ -7,7 +7,7 @@ const about = () => {
         <div className='about-left'> 
             <div className='about-left-wrapper'>
               <div className='my-div'>
-                <img className="my-img"src={ME}/>
+                <img className="my-img"src={ME} alt=''/>
               </div>
                 <h2 className='about-i'> Hello, my name is</h2>
                 <h1 className='about-name'> Elijah Busick</h1>

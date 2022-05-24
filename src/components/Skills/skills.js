@@ -18,7 +18,6 @@ import {
 } from "react-icons/si"
 import { FiFigma } from "react-icons/fi"
 import './skills.css'
-import { IconContext } from "react-icons";
 const skill = () => {
     return (
     <div className="">

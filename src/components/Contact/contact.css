@@ -1,17 +1,17 @@
-.contact-div {
-    width: 300px;
-    margin: auto;
-
-}
-
-.contact-div a {
-    text-align: center;
-    color: black;
-}
-
-.ICONS {
+.icons {
     font-size: 3.5em;
-    margin: 15px;
-    padding: 10px;
     opacity: 0.93 ;
+    margin: 15px;
+    padding: 5px;
+    vertical-align: middle ;
+    text-align: center ;
+}
+
+.cea{
+    text-align: center;
+    padding: 5px;
+}
+
+.c-div {
+    text-align: center;
 }
