@@ -15,3 +15,18 @@
 .c-div {
     text-align: center;
 }
+
+.c-button {
+    background-color: white;
+    border: 1.7px solid black;
+    color: black;
+    overflow: hidden;
+}
+
+.c-button:hover{
+    color: black;
+    background-color: white;
+    transform: scale(1.05);
+    overflow: hidden;
+    border: 2.2px solid white;
+}

@@ -1,5 +1,7 @@
 import React from 'react';
 import { contactsData } from '../../data/contact-data'
+import  myResume  from '../../img/Elijah Busick.pdf'
+import  Button  from 'react-bootstrap/Button'
 import { 
     AiOutlinePhone,
     AiOutlineMail
@@ -8,7 +10,7 @@ import { BiMap } from 'react-icons/bi'
 import { Row, Container, Col } from 'react-bootstrap'
 import './contact.css'
 const contact = () => {
-
+    
     return (
         <Container>
             <h1 className='cea'>Get In Touch</h1>
@@ -38,7 +40,7 @@ const contact = () => {
                     </a>
                 </Col>
             </Row>
-            <btn></btn>
+                <Button href={myResume} target="_blank" variant="primary" className='c-button'>Resume</Button>
         </Container>
     )
 }
