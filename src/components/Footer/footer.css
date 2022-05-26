@@ -1,0 +1,21 @@
+
+.r-f{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+.c-f{
+    vertical-align: middle ;
+    text-align: center ;
+}
+
+.icons-f {
+    font-size: 1.5em;
+    opacity: 0.93 ;
+    margin-left: 10px;
+    margin-right: 10px;
+    vertical-align: middle ;
+    text-align: center ;
+}
