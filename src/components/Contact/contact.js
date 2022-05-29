@@ -16,7 +16,7 @@ const contact = () => {
             <h1 className='cea'>Get In Touch</h1>
             <Row className='c-div'>
                 <Col>
-                    <a href={`Cell: ${contactsData.cell}`}>                              
+                    <a className="a-c" href={`Cell: ${contactsData.cell}`}>                              
                     <AiOutlinePhone className='icons'/> 
                     <p> 
                         {contactsData.cell}
@@ -24,7 +24,7 @@ const contact = () => {
                     </a>
                 </Col>
                 <Col>
-                    <a href={`Email: ${contactsData.email}`}>
+                    <a className="a-c" href={`Email: ${contactsData.email}`}>
                     <AiOutlineMail className='icons'/> 
                     <p> 
                         {contactsData.email}
@@ -32,7 +32,7 @@ const contact = () => {
                     </a>
                 </Col>
                 <Col>
-                    <a href={`Location: ${contactsData.Location}`}>
+                    <a className="a-c" href={`Location: ${contactsData.Location}`}>
                     <BiMap className='icons' />
                     <p>
                         {contactsData.Location}
@@ -40,7 +40,7 @@ const contact = () => {
                     </a>
                 </Col>
             </Row>
-                <Button href={myResume} target="_blank" variant="primary" className='c-button'>Resume</Button>
+                <Button id="resume" href={myResume} target="_blank" variant="primary" className='c-button'>Resume</Button>
         </Container>
     )
 }

@@ -19,3 +19,14 @@
     vertical-align: middle ;
     text-align: center ;
 }
+.icons-f:hover{
+    color: grey;
+}
+
+.a-f {
+    text-decoration: none;
+}
+
+.a-f:hover {
+    color: grey;
+}

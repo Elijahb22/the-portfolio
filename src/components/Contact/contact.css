@@ -7,6 +7,18 @@
     text-align: center ;
 }
 
+.icons:hover{
+    color: grey;
+}
+
+.a-c {
+    text-decoration: none;
+    color: black;
+}
+.a-c:hover{
+    color: grey;
+}
+
 .cea{
     text-align: center;
     padding: 5px;

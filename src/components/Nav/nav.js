@@ -25,7 +25,7 @@ const nav = () => {
                         <a href="#contact">Contact Me</a>
                     </li>
                     <li>
-                        <a href="#about">Resume</a>
+                        <a href="#resume">Resume</a>
                     </li>
                 </ul>
             </div>
