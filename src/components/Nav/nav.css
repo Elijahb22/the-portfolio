@@ -23,7 +23,7 @@ a {
 
 .nav-right{
     margin: 7px 0;
-    padding-left: 500px;
+    padding-left: 600px;
 }
 
 .nav-right ul {
@@ -40,7 +40,7 @@ a {
     color: black; 
 }
 .nav-right ul li a:hover{
-    color: aqua;
+    color: grey;
     transform: scale(1.05);
     overflow: hidden;
 }
