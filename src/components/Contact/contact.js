@@ -12,7 +12,7 @@ import './contact.css'
 const contact = () => {
     
     return (
-        <Container>
+        <Container id="contact">
             <h1 className='cea'>Get In Touch</h1>
             <Row className='c-div'>
                 <Col>

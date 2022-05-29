@@ -25,45 +25,45 @@ const skill = () => {
     <h2 className="h1-s"> Professional Skillset </h2>
     <Row>
         <Col className="tech-icons">
-            <DiJavascript1 />
+            <DiJavascript1 title="Javascript"/>
         </Col>
         <Col className="tech-icons">
-            <DiReact alt />
+            <DiReact title="React" />
         </Col>
         <Col className="tech-icons">
-            <DiNodejs />
+            <DiNodejs title="Nodejs"/>
         </Col>
         <Col className="tech-icons">
-            <DiMongodb />
+            <DiMongodb title="Mongodb" />
         </Col>
     </ Row>
     <Row>
         <Col className="tech-icons">
-            <AiFillHtml5 />
+            <AiFillHtml5 title="HTML5"/>
         </Col> 
         <Col className="tech-icons">
-            <DiCss3 />
+            <DiCss3 title="CSS3"/>
         </Col>
         <Col className="tech-icons">
-            <SiMysql />
+            <SiMysql title="MySQL"/>
         </Col>
         <Col className="tech-icons">
-            <SiExpress />
+            <SiExpress title="Express.js"/>
         </Col>
     </Row>
     <h2 className="h1-s">Tools Used</h2>
     <Row>
         <Col className="tech-icons">
-            <SiHeroku />
+            <SiHeroku title="Heroku"/>
         </Col>
         <Col className="tech-icons">
-            <FiFigma />
+            <FiFigma title="Figma"/>
         </Col>
         <Col className="tech-icons">
-            <SiVisualstudiocode />
+            <SiVisualstudiocode title="Visual Studio Code"/>
         </Col>
         <Col className="tech-icons">
-            <SiInsomnia />
+            <SiInsomnia  title="Insomnia"/>
         </Col>
     </Row>
     </Container>
