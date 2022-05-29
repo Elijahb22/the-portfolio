@@ -7,7 +7,7 @@ const nav = () => {
         <div className='nav-w'>
             <div className=''>
                 <h1 className='nav-h1'> 
-                    <a href="/">Elijah Busick </a>
+                    <a href="/" className='a-nav'>Elijah Busick </a>
                 </h1>
             </div>
             <div className='nav-right'>

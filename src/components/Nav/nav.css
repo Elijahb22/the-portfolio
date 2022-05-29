@@ -11,15 +11,26 @@
     flex-wrap: wrap;
 }
 
-h1{
+.nav-h1{
     margin-top: -5px;
+    color: black;
 }
-
 a {
     text-decoration: none;
     color: black;
     border-radius: 45px;
 }
+.a-nav {
+    text-decoration: none;
+    color: black;
+    border-radius: 45px;
+}
+
+.a-nav:hover {
+    color: grey;
+}
+
+
 
 .nav-right{
     margin: 7px 0;
