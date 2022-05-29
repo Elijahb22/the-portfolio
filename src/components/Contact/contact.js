@@ -33,7 +33,7 @@ const contact = () => {
                 </Col>
                 <Col>
                     <a href={`Location: ${contactsData.Location}`}>
-                    <BiMap className='icons'/>
+                    <BiMap className='icons' />
                     <p>
                         {contactsData.Location}
                     </p>
