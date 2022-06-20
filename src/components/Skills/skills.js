@@ -18,6 +18,7 @@ import {
 } from "react-icons/si"
 import { FiFigma } from "react-icons/fi"
 import './skills.css'
+/* Skill*/
 const skill = () => {
     return (
     <div id="skill">
