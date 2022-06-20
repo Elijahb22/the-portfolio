@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-portfolio/static/css/main.1b799473.css",
-    "main.js": "/the-portfolio/static/js/main.f2dd1f02.js",
+    "main.css": "/the-portfolio/static/css/main.9a587ccc.css",
+    "main.js": "/the-portfolio/static/js/main.4d829d82.js",
     "static/js/787.8daa9609.chunk.js": "/the-portfolio/static/js/787.8daa9609.chunk.js",
     "static/media/pizzahunt-img.jpg": "/the-portfolio/static/media/pizzahunt-img.8b05f950a22ad0f926db.jpg",
     "static/media/Elijah Busick.pdf": "/the-portfolio/static/media/Elijah Busick.f2952fc482ea3f3464ad.pdf",
@@ -12,12 +12,12 @@
     "static/media/mynighthome-img.jpg": "/the-portfolio/static/media/mynighthome-img.49ce341a03c8e12956ce.jpg",
     "static/media/notetaker-img.jpg": "/the-portfolio/static/media/notetaker-img.2bbd5b564f9ea149a09e.jpg",
     "index.html": "/the-portfolio/index.html",
-    "main.1b799473.css.map": "/the-portfolio/static/css/main.1b799473.css.map",
-    "main.f2dd1f02.js.map": "/the-portfolio/static/js/main.f2dd1f02.js.map",
+    "main.9a587ccc.css.map": "/the-portfolio/static/css/main.9a587ccc.css.map",
+    "main.4d829d82.js.map": "/the-portfolio/static/js/main.4d829d82.js.map",
     "787.8daa9609.chunk.js.map": "/the-portfolio/static/js/787.8daa9609.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b799473.css",
-    "static/js/main.f2dd1f02.js"
+    "static/css/main.9a587ccc.css",
+    "static/js/main.4d829d82.js"
   ]
 }
