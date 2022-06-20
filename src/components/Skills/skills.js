@@ -20,7 +20,7 @@ import { FiFigma } from "react-icons/fi"
 import './skills.css'
 const skill = () => {
     return (
-    <div className="">
+    <div id="skill">
     <Container>
     <h2 className="h1-s"> Professional Skillset </h2>
     <Row>

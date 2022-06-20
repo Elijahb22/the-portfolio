@@ -13,7 +13,7 @@ const contact = () => {
     
     return (
         <Container id="contact">
-            <h1 className='cea'>Get In Touch</h1>
+            <h2 className='cea'>Get In Touch</h2>
             <Row className='c-div'>
                 <Col>
                     <a className="a-c" href={`Cell: ${contactsData.cell}`}>                              
