@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-portfolio/static/css/main.6596f27e.css",
+    "main.js": "/the-portfolio/static/js/main.52c67a81.js",
+    "static/js/787.8daa9609.chunk.js": "/the-portfolio/static/js/787.8daa9609.chunk.js",
+    "static/media/pizzahunt-img.jpg": "/the-portfolio/static/media/pizzahunt-img.8b05f950a22ad0f926db.jpg",
+    "static/media/Elijah Busick.pdf": "/the-portfolio/static/media/Elijah Busick.f2952fc482ea3f3464ad.pdf",
+    "static/media/budgettracker-img.jpg": "/the-portfolio/static/media/budgettracker-img.64eb4b09a1b0e1e792d0.jpg",
+    "static/media/mydoctor-img.jpg": "/the-portfolio/static/media/mydoctor-img.502f7e6a469f1dad39c4.jpg",
+    "static/media/me.jpg": "/the-portfolio/static/media/me.d1b0935b9b629e131291.jpg",
+    "static/media/pg-img.jpg": "/the-portfolio/static/media/pg-img.4b501f68ec3373b99454.jpg",
+    "static/media/mynighthome-img.jpg": "/the-portfolio/static/media/mynighthome-img.49ce341a03c8e12956ce.jpg",
+    "static/media/notetaker-img.jpg": "/the-portfolio/static/media/notetaker-img.2bbd5b564f9ea149a09e.jpg",
+    "index.html": "/the-portfolio/index.html",
+    "main.6596f27e.css.map": "/the-portfolio/static/css/main.6596f27e.css.map",
+    "main.52c67a81.js.map": "/the-portfolio/static/js/main.52c67a81.js.map",
+    "787.8daa9609.chunk.js.map": "/the-portfolio/static/js/787.8daa9609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6596f27e.css",
+    "static/js/main.52c67a81.js"
+  ]
+}
