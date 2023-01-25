@@ -4,7 +4,7 @@ const nav = () => {
 
   return (
     <div className='nav'>
-        {/* <div className='nav-w'> */}
+         <div className='nav-w'> 
             <nav class="navbar bg-body-tertiary">
                 <div class="container-fluid">
                     <span class="navbar-brand mb-0 h1">Elijah</span>
@@ -30,7 +30,7 @@ const nav = () => {
                 </ul>
             </div>
            </nav>
-       {/* </div> */}
+        </div> 
   </div>
   )
 }
