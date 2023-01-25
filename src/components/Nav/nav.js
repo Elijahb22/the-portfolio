@@ -4,12 +4,12 @@ const nav = () => {
 
   return (
     <div className='nav'>
-            <nav class="navbar bg-body-tertiary">
-                <div class="container-fluid">
-                    <span class="navbar-brand mb-0 h1">Elijah</span>
-                </div>
-            </nav>
             <div className='nav-w'>
+                <nav class="navbar bg-body-tertiary">
+                    <div class="container-fluid">
+                        <span class="navbar-brand mb-0 h1">Navbar</span>
+                    </div>
+                </nav>
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#about">About</a>
