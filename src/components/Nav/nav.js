@@ -11,21 +11,21 @@ const nav = () => {
                 </h1>
             </div>
             <div className='nav-right'>
-                <ul>
-                    <li>
-                        <a href="#about">About Me</a>
+                <ul class="nav justify-content-end">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#about">About</a>
                     </li>
-                    <li>
-                        <a href='#skill'>Skills</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#skill">Skills</a>
                     </li>
-                    <li>
-                        <a href="#portfolio">Projects</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#portfolio">Projects</a>
                     </li>
-                    <li>
-                        <a href="#contact">Contact Me</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact">Contact Me</a>
                     </li>
-                    <li>
-                        <a href="#resume">Resume</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#resume">Resume</a>
                     </li>
                 </ul>
             </div>
