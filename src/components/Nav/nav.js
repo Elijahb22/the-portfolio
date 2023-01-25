@@ -10,7 +10,7 @@ const nav = () => {
                     <a href="/" className='a-nav'>Elijah Busick </a>
                 </h1>
             </div>
-            <div className='nav-right'>
+            <div className=''>
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#about">About</a>
