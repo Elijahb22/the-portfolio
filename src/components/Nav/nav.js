@@ -5,21 +5,21 @@ const nav = () => {
   return (
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <p class="navbar-brand fs-1" href="#">Elijah</p>
+            <p class="navbar-brand fs-1">Elijah</p>
                 <span class="navbar-toggler-icon"></span>
             <div class="nav-w" id="navbarNav">
-                <ul class="navbar-nav fs-4">
+                <ul class="navbar-nav fs-4 alert alert-secondary">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#skill">Skills</a>
+                        <a class="nav-link active" href="#skill">Skills</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link active" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#resume">Resume</a>
+                        <a class="nav-link active" href="#resume">Resume</a>
                     </li>
                 </ul>
             </div>
