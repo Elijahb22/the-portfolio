@@ -8,7 +8,7 @@ const nav = () => {
             <p class="navbar-brand fs-1">Elijah</p>
                 <span class="navbar-toggler-icon"></span>
             <div class="nav-w" id="navbarNav">
-                <ul class="navbar-nav fs-4 .text-dark">
+                <ul class="navbar-nav fs-4 text-dark">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#about">About</a>
                     </li>
