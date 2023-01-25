@@ -3,7 +3,7 @@ import './nav.css'
 const nav = () => {
 
   return (
-    <div className=''>
+    <div className='nav'>
         {/* <div className='nav-w'> */}
             <nav class="navbar bg-body-tertiary">
                 <div class="container-fluid">
