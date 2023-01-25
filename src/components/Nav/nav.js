@@ -8,7 +8,7 @@ const nav = () => {
                 <div class="container-fluid">
                     <span class="navbar-brand mb-6 h1">Elijah</span>
                 </div>
-            </nav>
+            
             <div className='nav-w'>
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
@@ -28,6 +28,7 @@ const nav = () => {
                     </li>
                 </ul>
             </div>
+            </nav>
     </div>
   )
 }
