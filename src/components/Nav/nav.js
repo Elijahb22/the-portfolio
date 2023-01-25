@@ -10,7 +10,7 @@ const nav = () => {
             <div class="nav-w" id="navbarNav">
                 <ul class="navbar-nav fs-4 --bs-secondary-color link-secondery:hover">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#about">About</a>
+                        <a class="nav-link active --bs-secondary-color link-secondary:hover" aria-current="page" href="#about">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="#skill">Skills</a>
