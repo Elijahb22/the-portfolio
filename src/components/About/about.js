@@ -12,7 +12,7 @@ const about = () => {
                 <h2 className='about-i'> Hello, my name is</h2>
                 <h1 className='about-name'> Elijah Busick</h1>
                 <p className=''>
-                I am a recent JUMP graduate pursuing a Java Development career, looking to combine nearly 18 months of industry equivalence experience with a strong digital mindset to become a valued asset to your organization.
+                I recently graduated from the jump program where I study java to pursue my passion in the tech industry. I obtained my bachelors degree in marketing and sales where I developed my collaboration/team work skills. I also acquired a certification as a Full stack web developer where I advanced my skills in Javascript and MySQL. In tech, I know Java, MySQL, and Javascript. I strive to be a senior developer at a fortuned 500 company one day by using my knowledge in java and adaptability skills.
                 </p>
             </div>
         </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { contactsData } from '../../data/contact-data'
-import  myResume  from '../../img/Elijah Busick.pdf'
+import  myResume  from '../../img/elijahResume.pdf'
 import  Button  from 'react-bootstrap/Button'
 import { 
     AiOutlinePhone,

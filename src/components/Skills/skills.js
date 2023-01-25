@@ -4,19 +4,17 @@ import { Col, Container, Row } from "react-bootstrap";
 import {
     DiJavascript1,
     DiReact,
-    DiNodejs,
-    DiMongodb,
-    DiCss3
+    DiJava,
+    DiEclipse
 } from "react-icons/di";
-import { AiFillHtml5 } from "react-icons/ai"
+
+import{FaAws} from "react-icons/fa"
 import { 
     SiMysql,
-    SiExpress,
-    SiHeroku,
     SiVisualstudiocode,
-    SiInsomnia
+    SiSpringboot,
+    SiPostman
 } from "react-icons/si"
-import { FiFigma } from "react-icons/fi"
 import './skills.css'
 /* Skill*/
 const skill = () => {
@@ -32,39 +30,30 @@ const skill = () => {
             <DiReact title="React" />
         </Col>
         <Col className="tech-icons">
-            <DiNodejs title="Nodejs"/>
-        </Col>
-        <Col className="tech-icons">
-            <DiMongodb title="Mongodb" />
+            <DiJava title="Java" />
         </Col>
     </ Row>
     <Row>
         <Col className="tech-icons">
-            <AiFillHtml5 title="HTML5"/>
+            <FaAws title="Amazon Web Service"/>
         </Col> 
-        <Col className="tech-icons">
-            <DiCss3 title="CSS3"/>
-        </Col>
         <Col className="tech-icons">
             <SiMysql title="MySQL"/>
         </Col>
         <Col className="tech-icons">
-            <SiExpress title="Express.js"/>
+            <SiSpringboot title="Spring Boot"/>
         </Col>
     </Row>
     <h2 className="h1-s">Tools Used</h2>
     <Row>
         <Col className="tech-icons">
-            <SiHeroku title="Heroku"/>
+            <SiPostman title="Postman"/>
         </Col>
         <Col className="tech-icons">
-            <FiFigma title="Figma"/>
+            <DiEclipse title="DiEclipse"/>
         </Col>
         <Col className="tech-icons">
             <SiVisualstudiocode title="Visual Studio Code"/>
-        </Col>
-        <Col className="tech-icons">
-            <SiInsomnia  title="Insomnia"/>
         </Col>
     </Row>
     </Container>
