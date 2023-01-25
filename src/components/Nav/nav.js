@@ -5,7 +5,7 @@ const nav = () => {
   return (
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand fs-1" href="#">Elijah</a>
+            <p class="navbar-brand fs-1" href="#">Elijah</p>
                 <span class="navbar-toggler-icon"></span>
             <div class="nav-w" id="navbarNav">
                 <ul class="navbar-nav fs-4">
