@@ -18,7 +18,7 @@ const nav = () => {
                         <a class="nav-link" href="#skill">Skills</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact Me</a>
+                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#resume">Resume</a>
