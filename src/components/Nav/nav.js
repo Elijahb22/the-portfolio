@@ -10,7 +10,7 @@ const nav = () => {
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
+                <ul class="navbar-nav text-light-emphasis">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#about">About</a>
                     </li>
