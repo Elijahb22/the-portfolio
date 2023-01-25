@@ -5,11 +5,11 @@ const nav = () => {
   return (
     <div className='nav'>
         <div className='nav-w'>
-            <div className=''>
-                <h1 className='nav-h1'> 
-                    <a href="/" className='a-nav'>Elijah Busick </a>
-                </h1>
-            </div>
+            <nav class="navbar bg-body-tertiary">
+                <div class="container-fluid">
+                    <span class="navbar-brand mb-0 h1">Elijah</span>
+                </div>
+            </nav>
             <div className=''>
                 <ul class="nav justify-content-end">
                     <li class="nav-item">
