@@ -7,11 +7,11 @@
     flex-wrap: wrap;
 }
 
-a {
-    color: black;
+.a-c{
+    color: black important;
 }
 
-a :hover{
+.a-c:hover{
     color: red!important;
 }
 
