@@ -1,5 +1,7 @@
 
-
+.nav-main{
+    padding-left: 20px !important;
+}
 .nav-w{
     padding: 20px 35px;
     display: flex;
