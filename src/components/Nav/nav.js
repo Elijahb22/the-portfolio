@@ -9,7 +9,7 @@ const nav = () => {
                 <span class="navbar-toggler-icon"></span>
             <div class="nav-w" id="navbarNav">
                 <ul class="navbar-nav fs-4">
-                    <li class="nav-item">
+                    <li class="nav-item text-dark">
                         <a class="nav-link active" aria-current="page" href="#about">About</a>
                     </li>
                     <li class="nav-item">
