@@ -13,13 +13,13 @@ const nav = () => {
                     <a class="nav-link active" className="a-c"aria-current="page" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#skill">Skills</a>
+                        <a class="nav-link active" className='a-c' href="#skill">Skills</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link active" href="#contact">Contact</a>
+                        <a class="nav-link active" className="a-c"href="#contact">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#resume">Resume</a>
+                        <a class="nav-link active" className='a-c' href="#resume">Resume</a>
                     </li>
                 </ul>
             </div>
