@@ -8,7 +8,7 @@
 }
 
 .a-c{
-    color: black important;
+    color: black !important;
 }
 
 .a-c:hover{
