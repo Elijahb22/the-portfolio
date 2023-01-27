@@ -15,6 +15,9 @@ const nav = () => {
                     <li class="nav-item">
                         <a class="nav-link active" className='a-c' href="#skill">Skills</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" className='a-c' href="#portfolio">Projects</a>
+                    </li>
                     <li class="nav-item active">
                         <a class="nav-link active" className="a-c"href="#contact">Contact</a>
                     </li>
